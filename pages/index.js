@@ -150,19 +150,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section>
-        <div>
-          
-          <p className="text-md py-9 leading-8 text-gray-700">
-            Since that start I have always been passionate about working in Computer Science and hence I worked on learning as much as I can. These are some of the <span className="text-pink-600"> projects </span> I made on my path of learning!
-          </p>
-          <p className="text-md py-2 leading-8 text-gray-700">
-            I specialize in various fields including <span className="text-pink-600">Artificial Intellegence </span> & <span className="text-pink-600">Data Analysis, Scraping and Visualization</span>. 
-          </p>
-        </div>
-
-        
-      </section>
+      
 
      </main>
     </div>
