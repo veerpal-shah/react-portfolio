@@ -43,7 +43,7 @@ export default function Home() {
         <div className="text-left p-10 py-10">
           <h2 className="text-5xl py-2 px-0 text-zinc-800 dark:text-purple-500 font-helvetica font-extrabold md:text-6xl ">About</h2>
           <h3 className="text-2xl py-2 px-0 md:text-3xl font-helvetica font-extrabold dark:text-white">Veerpal Shah.</h3>
-          <p className="text-md pt-5 leading-8 text-gray-700 md:text-xl  mx-auto dark:text-indigo-300">Hello, World! I am an innovation-driven, versatile Computer and Information Sciences student passionate about developing systems that help users navigate the digital landscape seamlessly, while pushing existing boundaries in technology down to create solutions that greatly impact society. </p>  
+          <p className="text-md pt-5 leading-8 text-gray-700 md:text-xl  mx-auto dark:text-indigo-300">Hello, World! I am a Computer and Information Sciences student at the Ohio State University passionate about developing systems and learning all the new technologies. I believe in pushing existing boundaries in technology to create solutions that greatly impact society. My current obsession has been with observing and imagining possibilities of implementing Speech and Natural Language Processing in many aspects of the world, specifically linguistics, and how that can impact quality of life. </p>  
           <p className="text-md py-0 leading-8 text-gray-700 md:text-xl mx-auto dark:text-indigo-400">Welcome to my portofolio website!</p>
         </div>
         <div className="flex justify-center gap-16">
@@ -69,10 +69,10 @@ export default function Home() {
         <div>
           <h3 className="text-2xl py-2 md:text-3xl font-helvetica font-extrabold dark:text-stone-300">Signature Proficiencies & Projects.</h3>
           <p className="text-md py-5 leading-8 text-gray-700 md:text-xl mx-auto dark:text-indigo-300">
-            Since the start I have always been passionate about working in Computer Science and hence I worked on learning as much as I can. These are some of the <span className="text-pink-600"> projects </span> I made on my path of learning!
+            Since the start I have always been passionate about working in Computer Science and hence I worked on learning as much as I can. These are some of the older <span className="text-pink-600"> projects </span> I worked on during my path of learning. To view more recent projects and experiences visit my resume by clicking the button on the top right end of the screen!
           </p>
           <p className="text-md py-5  leading-8 text-gray-700 md:text-xl  mx-auto dark:text-indigo-400">
-            I specialize in various fields including <span className="text-pink-600">AI Research</span>, <span className="text-pink-600">Software Development </span> & <span className="text-pink-600">Data Analysis, Scraping and Visualization</span>. 
+            I specialize in various fields including <span className="text-pink-600">AI Research</span>, <span className="text-pink-600">Full Stack Development </span> & <span className="text-pink-600">Data Analysis, Scraping and Visualization</span>. 
           </p>
         </div>
         <div className="lg:flex gap-10 dark:text-green-300">
