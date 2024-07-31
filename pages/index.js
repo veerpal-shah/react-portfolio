@@ -5,7 +5,7 @@ import Head from "next/head";
  } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
-import deved from "../public/selfie3.png";
+import deved from "../public/selfie4.png";
 import dna from "../public/dna2.png";
 import calculator from "../public/calc.png";
 import cloud from "../public/cloud.png";
